@@ -27,3 +27,6 @@ https://twitter.com/Claribel_Ortega/status/1261853649015373824
     - why?
     - because right now there are alot of tools, that pack user about self publishing and all
     - but these tools books have very lesser reader ship, so that needs to be changed.
+ 
+**Roadmap:**
+- Most likely to build a book review system
